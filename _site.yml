@@ -9,8 +9,8 @@ navbar:
       href: "meal.html"
     - text: "About Me"
       href: "about.html"
-    - icon: fab fa-github
-      href: https://github.com/nicolas-marlier/nicolas_blog.git
+    - icon: fab fa-github;
+      href:  https://nicolas-marlier.github.io/nicolas_blog/
 base_url: nicolas-marlier.github.io/nicolas_blog/
 collections:
     posts:
