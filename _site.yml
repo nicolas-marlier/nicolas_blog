@@ -1,17 +1,17 @@
 name: "blog-template"
-title: "___'s Blog"
+title: "nicolas's Blog"
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "M.E.A.L."
-      href: "posts/meal/index.html"
+      href: "meal.html"
     - text: "About Me"
-      href: "posts/about/index.html"
+      href: "about.html"
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
+      href: https://github.com/nicolas-marlier/nicolas_blog.git
+base_url: nicolas-marlier.github.io/nicolas_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
