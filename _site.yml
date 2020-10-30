@@ -14,6 +14,7 @@ navbar:
 base_url: nicolas-marlier.github.io/nicolas_blog/
 collections:
     posts:
+      disqus: nicolas-blog-1
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
