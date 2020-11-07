@@ -24,47 +24,22 @@ world count: 633
 
 # VOCABULARY
 
-Word from the text  |   Synonym/definitionin English        | French translation
---------------------|---------------------------------------|--------------
-Peers               | one who is the equal of another       | pairs
-    .               | in abilities or social status         | 
-    .               |                                       | 
-Shells              |  a hard outer covering of an animal,  | coquilles
-     .              |  such as of a clam, snail, or turtle  |  
-     .              |                                       | 
-Tools               | anything used to accomplish a task    | outils
-    .               |                                       | 
-Foraging            | to wander or go in search of          | recherche de
-    .               |  provisions    recherche de           | nourriture
-    .               |                                       | 
-Porpoise            |  a marine mammal having a blunt,      | marsouin
-      .             | rounded snout and resembling a dolphin|   
-       .            |                                       | 
-       .            | a large whalebone whale of the genus  | 
-      .             | Megaptera having long narrow flippers,| 
-      .             | and noted for its habit of arching    | Baleine à bosse
-Humpback whales     | deeply as it dives: once abundant in  | 
-       .            | coastal waters, it is now rare but its| 
-        .           | numbers are increasing.               | 
-       .            |                                       | 
-Beak                |any horny or stiff mouthpart of an     | bec
-    .               | animal that sticks out or is curved   | 
-    .               | like a bird's                         | 
-     .              |                                       | 
-Prey                | an animal hunted for food             | proie
-     .              |                                       |  
-mind-blowing        | overwhelming ;  astounding            | époustouflant
-     .              |                                       | 
-relatedness         | associated or connected by family,    | ° de parenté
-     .              | marriage, or common origin            | 
-     .              |                                       | 
-overlap             | to have something in common or come   | chevauchement
-     .              | together partly with (another)        | 
-      .             |                                       |  
-to occur            | to happen; take place                 | avoir lieu
 
-
-# ANALYSIS TABLE ABOUT THE STUDY
+| Word from the text | Synonym/definitionin English                                                                                                                                                                                         | French translation        |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Peers              | one who is the equal of another  in abilities or social status                                                                                                                                                       | pairs                     |
+| Shells             | a hard outer covering of an animal,  such as of a clam, snail, or turtle                                                                                                                                             | coquilles                 |
+| Tools              |  anything used to accomplish a task                                                                                                                                                                                  | outils                    |
+| Foraging           | to wander or go in search of provisions                                                                                                                                                                              | r recherche de nourriture |
+| Porpoise           | a marine mammal having a blunt,  rounded snout and resembling a dolphin                                                                                                                                              | marsouin                  |
+| Humpback whales    | a large whalebone whale of the genus  Megaptera having long narrow flippers, and noted for its habit of arching  deeply as it dives: once abundant in coastal waters, it is now rare but its numbers are increasing. | Baleine à bosse           |
+| Beak               | any horny or stiff mouthpart of an animal that sticks out or is curved like a bird's                                                                                                                                 | bec                       |
+| Prey               | an animal hunted for food                                                                                                                                                                                            | proie                     |
+| mind-blowing       | overwhelming ; astounding                                                                                                                                                                                            | époustouflant             |
+| relatedness        | associated or connected by family,  marriage, or common origin                                                                                                                                                       | ° de parenté              |
+| overlap            | to have something in common or come together partly with (another)                                                                                                                                                   | chevauchement             |
+| to occur           |  to happen; take place                                                                                                                                                                                               | avoir lieu                |
+# ANALYSIS ABOUT THE STUDY
 
 **Researchers?**  
 author: Jack J. Lee                                                                 

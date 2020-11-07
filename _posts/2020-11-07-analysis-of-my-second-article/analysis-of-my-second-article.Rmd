@@ -1,0 +1,69 @@
+---
+title: "analysis of my second article"
+description: study of the social behaviour of sea elephants 
+  A short description of the post.
+author:
+  - name: Marlier Nicolas
+    url: {}
+date: 11-07-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+
+source: [https://www.scientificamerican.com/article/earthshaking-signature-brawn-songs-and-movement-developed-over-time-identify-seals/]
+
+date: November 2020
+
+world count: 535
+
+# VOCABULARY
+
+| Word from the text | Synonym/definitionin English | French translation  |
+| ------------------ | ---------------------------- | ------------------- |
+| To mate            | partner                      | partenaire          |
+| To jostle          | push and shove               | se bousculer        |
+| Suitor             | dated                        | prétendant          |
+| Boisterous         | noisy                        | turbulent           |
+| Bravado            | false show of courage        | bravade             |
+| Carve out          | build up                     | batir               |
+| Inconspicuous      | no easily seen               | qui passe inaperçu  |
+| Standing out       | be noticeable                | se démarquer        |
+| Handy              | useful                       | pratique            |
+| Ruthless           | whitout mercy                | impitoyable         |
+| Tightly (packed)   | in tight manner              | serré               |
+
+
+# ANALYSIS ABOUT THE STUDY
+
+**Researchers?**
+-The researcher is Caroline Casey, a graduate student in ecology and evolutionary biology at the University of California, Santa Cruz
+-The author of the article is Chris Baraniuk, he is a freelance science and technology journalist based in the U.K. Besides Scientific American
+
+**Published in? when?** 
+
+This article was originally published with the title "Brawn Song" in Scientific American 323, 5, 21 (November 2020)
+
+**General topic**
+
+The study focuses on the behaviour of sea elephants and the way they communicate. 
+
+**Procedure/ what was examined**
+
+The researchers studied a colony of 2000 individuals located in the Año Nuevo State Park. They recorded more than 440 calls from 47 male elephant seals at different stages of development.
+
+**Conclusions/ discovery**
+
+-Individuals identify themselves by rhythmic and guttural calls, accompanied by body snaps.
+
+-They are not born with these identification signals. but they develop them as they get older.
+
+_These vocalizations develop at about the same time as the seals acquire territories and have a chance to reproduce.
+
+
