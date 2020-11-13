@@ -1,0 +1,31 @@
+---
+title: "graphic_description"
+description: |
+  Data Sciences I
+author:
+  - name: Marlier Nicolas
+    url: {}
+date: 11-13-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+```{r}
+SciViews::R
+data <- read("urchin_bio", package = "data.io")
+```
+
+this dataset is based on the study of sea urchins according to their life environment it allows to see the differences between sea urchins raised in farms and sea urchins living in the wild 
+
+```{r}
+chart(urchin_bio, solid_parts ~ weight %col=% origin) +
+  geom_point()
+```
+
+On this graph we can easily see that farmed sea urchins tend to be heavier than those living in the wild.And we can think of several reasons that can explain this such as: richer and more frequent feeding, less predation and optimal living conditions (less waves, less current, less variation of water parameters).
