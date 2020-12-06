@@ -4,7 +4,6 @@ description: Study of certain dolphin capacities.
 author:
   - name: Marlier Nicolas 
     url: {}
-
 date: 10-26-2020
 output:
   distill::distill_article:

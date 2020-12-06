@@ -1,0 +1,73 @@
+---
+title: "analysis of my third article"
+description: studies on the relationship between the sing of whales and their trip
+
+author:
+  - name: Marlier Nicolas
+    url: {}
+date: 12-06-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+
+source :[https://www.sciencenews.org/article/before-migrating-blue-whales-switch-timing-songs]
+
+date : Oct 1, 2020
+
+world count : 683
+
+
+# VOCABULARY
+
+| Word from the text |  Synonym/definitionin English    | French translation            |
+| ------------------ | -------------------------------- | ----------------------------- |
+| crooning           | sing softly                      | fredonner                     |
+| gorging            | overeat                          | se goinfrer                   |
+| krill              | shrimp-like animal               | krill                         |
+| eavesdrop          | listen secretly)                 | écouter de manière indiscrète |
+| stumbled           | trip                             | trébucher                     |
+| shore              | (section of land bordering water | rivage                        |
+| eager              | avid                             | avide                         |
+| shift              | move                             | déplacer                      |
+| cue                | signal                           | signal                        |
+| struck             | hit                              | frapper                       |
+| shipping vessels   | boat                             | navires de transport maritime |
+
+
+# ANALYSIS ABOUT THE STUDY
+
+**Researchers?**
+
+-The researcher is  William Oestreich, a biological oceanographer at Stanford University
+-The author of the article is Jake Buehler
+
+**Published in? when?** 
+
+Published online Oct. 1, 2020. in SciencesNews
+
+**General topic**
+
+The study hypothesises that there is a relationship between whale song and whale behaviour/movement.
+
+**Procedure/ what was examined**
+
+The data was collected by an underwater microphone dropped in Monterey Bay, California to record the soundscape of the region for five years. And the researchers also tagged 15 blue whales with instruments and from 2017 to 2019, recorded the whales’ movements, diving and feeding behavior, as well as their singing — nearly 4,000 songs’ worth.
+
+
+**Conclusions/ discovery**
+
+No real discovery, but a hypotheticosis is emitted. The whales usually sing 3 times more at night than during the day but during certain periods the ratio is reversed and the whales start to sing more during the day, it could be that this change is linked to the migration of the animals southwards during their periods of reproduction.
+
+**Remaining questions**
+
+Is the change of song periods linked with the period of reproduction? 
+
+Do blue whales listen to the  times shift in the songs of distant whales as a signal to start their own migration?
+

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-12-06-analysis-of-my-third-article/",
+    "title": "analysis of my third article",
+    "description": "studies on the relationship between the sing of whales and their trip",
+    "author": [
+      {
+        "name": "Marlier Nicolas",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-06",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-06T19:50:30+01:00"
+  },
+  {
     "path": "posts/2020-11-13-graphicdescription/",
     "title": "graphic_description",
     "description": "Data Sciences I",
@@ -19,7 +34,7 @@
   {
     "path": "posts/2020-11-07-analysis-of-my-second-article/",
     "title": "analysis of my second article",
-    "description": "study of the social behaviour of sea elephants A short description of the post.",
+    "description": "study of the social behaviour of sea elephants",
     "author": [
       {
         "name": "Marlier Nicolas",
@@ -29,7 +44,7 @@
     "date": "2020-11-07",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-07T18:52:53+01:00"
+    "last_modified": "2020-12-06T19:15:24+01:00"
   },
   {
     "path": "posts/2020-10-26-analysis-of-my-first-article/",
