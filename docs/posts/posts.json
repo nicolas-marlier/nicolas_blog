@@ -1,5 +1,35 @@
 [
   {
+    "path": "posts/2020-12-14-analysis-of-my-fourth-article/",
+    "title": "analysis of my fourth article",
+    "description": "Baikal seals feeding study",
+    "author": [
+      {
+        "name": "Marlier Nicolas",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-14T14:35:15+01:00"
+  },
+  {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Nicolas Marlier",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-14T14:36:12+01:00"
+  },
+  {
     "path": "posts/2020-12-06-analysis-of-my-third-article/",
     "title": "analysis of my third article",
     "description": "studies on the relationship between the sing of whales and their trip",
@@ -12,7 +42,7 @@
     "date": "2020-12-06",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-12-06T19:50:30+01:00"
+    "last_modified": "2020-12-14T14:36:41+01:00"
   },
   {
     "path": "posts/2020-11-13-graphicdescription/",
@@ -44,7 +74,7 @@
     "date": "2020-11-07",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-12-06T19:15:24+01:00"
+    "last_modified": "2020-12-14T14:35:03+01:00"
   },
   {
     "path": "posts/2020-10-26-analysis-of-my-first-article/",
@@ -59,22 +89,7 @@
     "date": "2020-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-13T10:52:13+01:00"
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "Nicolas Marlier",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-26",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-10-26T11:02:04+01:00"
+    "last_modified": "2020-12-14T14:36:26+01:00"
   },
   {
     "path": "posts/meal/",

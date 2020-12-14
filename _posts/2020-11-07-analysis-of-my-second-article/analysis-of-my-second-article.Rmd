@@ -3,7 +3,7 @@ title: "analysis of my second article"
 description: study of the social behaviour of sea elephants 
   
 author:
-  - name: Marlier Nicolas
+  - name: Marlier Nicolas 
     url: {}
 date: 11-07-2020
 output:

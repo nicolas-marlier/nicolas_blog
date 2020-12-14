@@ -3,7 +3,7 @@ title: "analysis of my third article"
 description: studies on the relationship between the sing of whales and their trip
 
 author:
-  - name: Marlier Nicolas
+  - name: Marlier Nicolas 
     url: {}
 date: 12-06-2020
 output:

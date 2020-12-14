@@ -1,0 +1,90 @@
+---
+title: "analysis of my fourth article"
+description: Baikal seals feeding study
+author:
+  - name: Marlier Nicolas 
+    url: {}
+date: 12-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+
+source :[https://www.sciencenews.org/article/baikal-seals-feed-like-whales-crustaceans-comb-shaped-teeth]
+
+date : December 11, 2020
+
+world count : 681
+
+
+# VOCABULARY
+
+| Word from the text |  Synonym/definitionin English | French translation |
+| ------------------ | ----------------------------- | ------------------ |
+| quirk              | unique characteristic)        | excentricité       |
+| thriving           | growing strongly              | prospère           |
+| comb               | implement for untangling hair | peigne             |
+| to gobble up       | eat hungrily                  | engloutir          |
+| hone               | skills                        | perfectionner      |
+| shift              | move                          | déplacer           |
+| shallow            | not deep                      | peu profond        |
+| gather             | collect                       | collecter          |
+| swarm              | mass of insects               | essaim             |
+| snatch             | take                          | saisir             |
+| prong              | spike of a fork               | dent               |
+| gulp               | make swallowing noise         | déglutir           |
+| underneath         | beneath                       | en dessous de      |
+| wane               | decline                       | décliner           |
+
+
+
+# ANALYSIS ABOUT THE STUDY
+
+**Researchers?**
+
+-The researcher is  Yuuki Y. Watanabe, who s working at National Institute of Polar Research, University
+
+-The author of the article is Jake Buehler
+
+**Published in? when?** 
+
+Published online December 11, 2020 in SciencesNews
+
+**General topic**
+
+The study concerns the feeding of seals living in Lake Baikal.
+
+**Procedure/ what was examined**
+
+The studies were carried out in two stages:
+
+-firstly, in 2003, the researcher studied the eating habits of seals.
+
+-Then he came back in 2018 with his team and they caught 8 seals in order to equip them with camera and accelerometer.
+
+
+**Conclusions/ discovery**
+
+They discovered that the seals of baikal have a diet that can be composed of up to 20 percent amphipods, which at first glance may seem surprising given the size of these amphipods. Researchers have discovered that what allowed these seals to feed on these tiny amphipods were their comb-like teeth.
+
+**Remaining questions**
+
+Researchers would like to deepen their research on the teeth of these seals in order to better understand the mechanism that allows them to feed themselves. 
+
+Tthey also want to analyse the winter diet of these seals because in winter the lake is frozen, which could help the seals to feed and if this is the case they would like to study if climate change could have a negative impact on these animals.
+
+
+
+
+
+
+
+
+
+

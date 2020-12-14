@@ -38,7 +38,7 @@ world count: 633
 | relatedness        | associated or connected by family,  marriage, or common origin                                                                                                                                                       | ° de parenté              |
 | overlap            | to have something in common or come together partly with (another)                                                                                                                                                   | chevauchement             |
 | to occur           |  to happen; take place                                                                                                                                                                                               | avoir lieu                |
-# ANALYSIS ABOUT THE STUDY
+# ANALYSIS ABOUT THE STUDY 
 
 **Researchers?**  
 author: Jack J. Lee                                                                 

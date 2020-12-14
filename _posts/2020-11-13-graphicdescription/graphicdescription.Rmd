@@ -21,7 +21,7 @@ SciViews::R
 data <- read("urchin_bio", package = "data.io")
 ```
 
-this dataset is based on the study of sea urchins according to their life environment it allows to see the differences between sea urchins raised in farms and sea urchins living in the wild 
+this dataset is based on the study of sea urchins according to their life environment it allows to see the differences between sea urchins raised in farms and sea urchins living in the wild  
 
 ```{r}
 chart(urchin_bio, solid_parts ~ weight %col=% origin) +
