@@ -1,0 +1,69 @@
+---
+title: "analysis of my fifth article"
+description: |
+  study of the evolution of ocean pollution through the observation of narwhals .
+author:
+  - name: Marlier Nicolas
+    url: {}
+date: 03-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+
+source :[https://www.sciencedaily.com/releases/2021/03/210329122743.htm]
+
+date : March 29, 2021
+
+world count : 617
+
+
+# VOCABULARY
+
+| shift         | move                | déplcaer                   |
+| ------------- | ------------------- | -------------------------- |
+| fellow        | man                 | gars                       |
+| layer         | level               | couche                     |
+| tusk          | long tooth          | défense                    |
+| jaw           | face around jawbone | machoire                   |
+| prey          | hunted animal       | proie                      |
+| halibut       | large flatfish      | flétan                     |
+| cod           | fish                | morue                      |
+| capelin       | fish                | capelan                    |
+| breeding      | raising animals     | élevage                    |
+| lack          | shortage            | pénurie                    |
+| can't get rid | clear               | ne peut pas se débarrasser |
+
+
+# ANALYSIS ABOUT THE STUDY
+
+**Researchers?**
+
+-McGill University researchers.
+
+**Published in? when?** 
+
+Published online March 29, 2021 in ScienceDaily.
+
+**General topic**
+
+The study concerns the impact of human pollution on narwhals.
+
+**Procedure/ what was examined**
+
+Researchers have used narwhal tusks to observe the evolution of heavy metals in the ocean.Thanks to this method they have data dating back to the 1960s.
+
+
+**Conclusions/ discovery**
+
+The study shows that the living environment of narwhals is deteriorating. Several causes are mentioned: global warming and the continued burning of fossil fuels in Southeast Asia. 
+
+**Remaining questions**
+
+Scientists would like to deepen the study of narwhal defences by looking at the specimen in the museums.

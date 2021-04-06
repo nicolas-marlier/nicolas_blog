@@ -1,0 +1,67 @@
+---
+title: "analysis of my sixth article"
+description: |
+ Studies on the consequences of temperature increase on marine animals.
+author:
+  - name: Marlier Nicolas
+    url: {}
+date: 04-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+
+source :[https://www.sciencedaily.com/releases/2020/09/200916113536.htm]
+
+date : September 16, 2020
+
+world count : 833
+
+
+# VOCABULARY
+
+| spineless | invertebrate      | invertébré         |
+| --------- | ----------------- | ------------------ |
+| backbone  | spine             | épine dorsale      |
+| jellyfish | marine creature   | méduse             |
+| stretch   | reach up          | s'étirer           |
+| hypoxia   | oxygen defiency   | hypoxie            |
+| shifting  | constant movement | mouvement constant |
+| anchovy   | fish              | anchois            |
+
+
+# ANALYSIS ABOUT THE STUDY
+
+**Researchers?**
+
+-The research is from the University of Washington and the author of the original article is James Urton
+
+
+**Published in? when?** 
+
+Published online September 16, 2020 in ScienceDaily.
+
+**General topic**
+
+The study concerns the impact of of ocean warming on marine animals.
+
+**Procedure/ what was examined**
+
+The researchers combined data on ocean temperature and oxygen content with published studies on the physiology, oxygen demand and metabolism of 72 species.And with these data they modelled the geographic air occupancy of each species. 
+
+
+**Conclusions/ discovery**
+
+tudies show that the range of species is just at the limit of breathability, indicating that for marine animals, the ability to obtain sufficient oxygen may be a major limiting factor in determining where they can live. Outside this zone, organisms run the risk of suffering from hypoxia.And because temperature affects both the amount of oxygen that seawater can hold and the amount of oxygen an animal needs to maintain the same level of activity. Long-term increases in temperature, as predicted under climate change, are likely to restrict the ranges of many marine animals. 
+
+**Remaining questions**
+
+They want to include other species and further explore the relationship between temperature, oxygen and physiology.
+ And also to find historical examples of marine species that have shifted their range in response to water breathability
+.
