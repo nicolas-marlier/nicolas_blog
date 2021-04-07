@@ -1,0 +1,69 @@
+---
+title: "analysis of my seventht article"
+description: |
+  Dolphin communication.
+author:
+  - name: Marlier Nicolas
+    url: {}
+date: 04-07-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT
+
+source :[https://www.sciencemag.org/news/2021/03/watch-dolphins-talk-each-other-synchronize-their-behaviors]
+
+date : Mar. 16, 2021
+
+world count : 775
+
+
+# VOCABULARY
+
+| cue      | signal                   | signal              |
+| -------- | ------------------------ | ------------------- |
+| sleek    | smooth                   | lisse et soyeux     |
+| eavedrop | listen secretly          | écouter au portes   |
+| insight  | uncountable              | apercu              |
+| meantime | time measure by the sun  | temps solaire moyen |
+| glipse   | see briefly              | entrevoir           |
+
+
+# ANALYSIS ABOUT THE STUDY
+
+**Researchers?**
+
+-The author of the article is Christa Lesté-Lasserre
+
+
+**Published in? when?** 
+
+Published online September 16, 2020 in ScienceDaily.
+
+**General topic**
+
+The study concerns the behaviour of dolphins and especially how they communicate with each other. 
+
+
+**Procedure/ what was examined**
+
+-Researchers have studied captive-bred dolphins from Belgium and Florida.
+
+-So scientists have developed ways to capture these sounds. They have combined hydrophones to create a star-shaped pattern that can determine which dolphin in a group is "talking"
+
+
+**Conclusions/ discovery**
+
+The study shows that some dolphins click and some whistle to synchronise, but it also shows that those that do whistle don't do it every time, but when they do they are better synchronised.
+
+**Remaining questions**
+
+They would like to study the behaviour of dolphins raised in the open sea, even if it is more complicated to follow animals in captivity.
+
+.

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2021-04-07-analysis-of-my-seventht-article/",
+    "title": "analysis of my seventht article",
+    "description": "Dolphin communication.",
+    "author": [
+      {
+        "name": "Marlier Nicolas",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-07",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-07T18:01:59+02:00"
+  },
+  {
     "path": "posts/2021-04-03-analysis-of-my-sixth-article/",
     "title": "analysis of my sixth article",
     "description": "Studies on the consequences of temperature increase on marine animals.",
