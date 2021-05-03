@@ -1,0 +1,17 @@
+---
+title: "Conclusion"
+description: |
+  .
+author:
+  - name: Marlier Nicolas
+    url: {}
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+This blog is about a very broad topic, but in the process of doing it I have learned a lot about animals, their behaviour and their environment. 
+
+For example, that dolphins can communicate in different ways and that they can also learn from each other, but it also reinforced the idea that we can have a much bigger impact on animals than some people think. 
+

@@ -1,0 +1,17 @@
+---
+title: "Introduction"
+description: |
+author:
+  - name: Marlier Nicolas
+    url: {}
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+I have chosen the marine mammals as the subject for my blog, although it is a very wide choice of subject, but it is the thing that interests me the most. It is largely for the marine world that I chose to study biology at university. I think that the marine world is an area of study where we still have a lot of progress to make, we still have a lot to learn about this ecosystem and I think that some of the things we could learn from it could be beneficial to us, especially in terms of mammals, which are very developed animals and can have group behaviour and forms of communication. For example how dolphins communicate with each other to synchronise and why some do and others don't or how sea elephants recognise each other by their guttural sounds.
+
+In addition, I think that this ecosystem is suffering the full force of our society debacles, marine animals are the first to suffer from global warming as well as human pollution for example we can see that the rise in temperature can impact greatly on the place of life of some animals and force them to move and it is the same for the quality of water.
+
+
