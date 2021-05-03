@@ -26,6 +26,7 @@ world count : 617
 
 # VOCABULARY
 
+
 | shift         | move                | déplcaer                   |
 | ------------- | ------------------- | -------------------------- |
 | fellow        | man                 | gars                       |

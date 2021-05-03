@@ -32,7 +32,7 @@ world count : 775
 | eavedrop | listen secretly          | écouter au portes   |
 | insight  | uncountable              | apercu              |
 | meantime | time measure by the sun  | temps solaire moyen |
-| glipse   | see briefly              | entrevoir           |
+| glimpse   | see briefly              | entrevoir           |
 
 
 # ANALYSIS ABOUT THE STUDY

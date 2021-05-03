@@ -30,6 +30,21 @@
     "last_modified": "2021-05-03T20:59:11+02:00"
   },
   {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Nicolas Marlier",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-05-03T22:29:25+02:00"
+  },
+  {
     "path": "posts/2021-04-07-analysis-of-my-seventht-article/",
     "title": "analysis of my seventht article",
     "description": "Dolphin communication.",
@@ -42,7 +57,7 @@
     "date": "2021-04-07",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-04-07T18:01:59+02:00"
+    "last_modified": "2021-05-03T22:28:41+02:00"
   },
   {
     "path": "posts/2021-04-03-analysis-of-my-sixth-article/",
@@ -57,7 +72,7 @@
     "date": "2021-04-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-05-03T20:50:26+02:00"
+    "last_modified": "2021-05-03T22:16:13+02:00"
   },
   {
     "path": "posts/2021-03-15-analysis-of-my-fifth-article/",
@@ -72,7 +87,7 @@
     "date": "2021-03-15",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-04-04T19:17:34+02:00"
+    "last_modified": "2021-05-03T22:14:53+02:00"
   },
   {
     "path": "posts/2020-12-14-analysis-of-my-fourth-article/",
@@ -88,21 +103,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-12-14T14:35:15+01:00"
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "Nicolas Marlier",
-        "url": {}
-      }
-    ],
-    "date": "2020-12-14",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-12-14T14:36:12+01:00"
   },
   {
     "path": "posts/2020-12-06-analysis-of-my-third-article/",
